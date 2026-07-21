@@ -2,7 +2,8 @@
 
 An end-to-end Excel analytics project covering data cleaning, exploratory analysis, and interactive dashboard design for a multi-country e-commerce business.
 
-<img width="1213" height="675" alt="Nova Dashboard" src="https://github.com/user-attachments/assets/da104956-653d-4b48-9a12-bd73975f3c95" />
+<img width="1213" height="675" alt="Nova Dashboard" src="https://github.com/user-attachments/assets/e46f73a1-4c55-4a02-9d34-7a9236cbe805" />
+
 
 
 ---
