@@ -70,6 +70,12 @@ Management suspected the business had shifted materially since launch but had no
 - **Final cleaned size:** 9,760 records
 - **Date range:** 2021 - 2025
 - **Currency:** All amounts in USD
+- **Raw Dataset**
+- <img width="1587" height="717" alt="Nova_raw_data" src="https://github.com/user-attachments/assets/130a82f4-48e8-42e6-809b-d9a98f112901" />
+- **Clean Dataset**
+- <img width="1902" height="716" alt="Nova_clean_data" src="https://github.com/user-attachments/assets/1dd2e117-2c5b-4d1c-986a-e8965c9151c5" />
+
+
 
 **Columns:**
 Order ID, Order Date, Customer Name, Country, City, Product Category, Product Name, Unit Price, Quantity, Revenue, Device Type, Payment Method, Order Status, Month Name, Year, Month.
@@ -159,11 +165,17 @@ The following PivotTables were built to drive the findings and power the dashboa
 | Revenue by Payment Method | Payment Method | Sum of Revenue (USD) |
 | Lost Revenue by Order Status | Order Status | Sum of Revenue (USD) |
 | KPI Summary | Indicator | Value |
-<img width="1840" height="702" alt="Nova_pivot_analysis" src="https://github.com/user-attachments/assets/1fe51e91-c5c3-401b-a1f0-503cb96b7ae4" />
-<img width="1352" height="677" alt="Nova_pivot_analysis2" src="https://github.com/user-attachments/assets/9179a5f7-be7d-455e-8b03-9e7ee08a0b55" />
-<img width="1326" height="672" alt="Nova_pivot_analysis_chart1" src="https://github.com/user-attachments/assets/b9393263-84a7-4d2a-b086-ccf7e6d84fba" />
-<img width="1213" height="615" alt="nova_pivot_analysis_chart2" src="https://github.com/user-attachments/assets/a7674ae5-0836-44cd-810e-8002500e4de6" />
-<img width="1395" height="687" alt="Nova_pivot_analysis_chart3" src="https://github.com/user-attachments/assets/ceaadbc2-8471-4645-b5ec-e742167cdc96" />
+<img width="1840" height="702" alt="Nova_pivot_analysis" src="https://github.com/user-attachments/assets/6e4bef58-91e5-4d76-9725-66fd4365d499" />
+<img width="1352" height="677" alt="Nova_pivot_analysis2" src="https://github.com/user-attachments/assets/a15c6f0c-165e-4674-8c60-1d3a7482aa67" />
+<img width="1326" height="672" alt="Nova_pivot_analysis_chart1" src="https://github.com/user-attachments/assets/c388dcac-55b5-4755-a3c8-21c566f3963b" />
+<img width="1213" height="615" alt="nova_pivot_analysis_chart2" src="https://github.com/user-attachments/assets/409713c0-f215-4590-8813-8f65ab46e277" />
+<img width="1395" height="687" alt="Nova_pivot_analysis_chart3" src="https://github.com/user-attachments/assets/c54315b4-d2e2-474f-86bb-ae40643a986b" />
+
+
+
+
+
+
 
 
 
@@ -191,7 +203,7 @@ The dashboard was designed as a single page for a sales director audience with r
 - Revenue by Product Category (horizontal bar chart) - shows category concentration
 - Revenue by Device Type (donut chart) - highlights mobile vs. desktop vs. tablet share
 - Lost Revenue by Country (clustered bar chart) - breaks cancellations and refunds down by market
-- <img width="1213" height="675" alt="Nova Dashboard" src="https://github.com/user-attachments/assets/2df04144-1eed-4852-be74-caf410638a5a" />
+<img width="1213" height="675" alt="Nova Dashboard" src="https://github.com/user-attachments/assets/e46f73a1-4c55-4a02-9d34-7a9236cbe805" />
 
 
 **Slicers:**
